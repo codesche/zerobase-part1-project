@@ -42,7 +42,7 @@
 ## 개발 환경 ##
 * Language : Java, HTML, CSS, JavaScript
 * DBMS : Sqlite
-* Server : Apache Tomcat 8.5.83(WAS)
+* Server : Apache Tomcat 8.5.83
 * IDE: Intellij IDEA 2022.2.3 (Ultimate Edition)
 
 
