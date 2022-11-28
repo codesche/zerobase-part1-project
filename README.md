@@ -50,9 +50,9 @@
 * DeleteServlet : 히스토리 삭제 기능 처리
 * DBConnection : sqlite DB 연동
 * LoadWifi : 서울시 공공 Wifi정보 불러오는 로직 구성
-* WifiDTO : 서울시 공공 Wifi정보 Load시 필요한 테이블 정보 구성(Data Transfer Object)
-- 유저가 자신의 브라우저에서 데이터를 입력하여 form에 있는 데이터를 DTO에 넣어서 전송
-- 해당 DTO를 받은 서버가 DAO를 이용하여 데이터베이스로 데이터를 집어넣음
++ WifiDTO : 서울시 공공 Wifi정보 Load시 필요한 테이블 정보 구성(Data Transfer Object)
+  - 유저가 자신의 브라우저에서 데이터를 입력하여 form에 있는 데이터를 DTO에 넣어서 전송
+  - 해당 DTO를 받은 서버가 DAO를 이용하여 데이터베이스로 데이터를 집어넣음
 * history.jsp : 위치 히스토리 목록 화면 View 기능 및 목록 조회
 * load.jsp : 히스토리 정보 Insert + 거리 정보 Insert + Select시 조건 충족시키는 데이터 20개 미만 조회
 * load-wifi.jsp : LoadWifi에서 불러온 서울시 공공와이파이 정보를 WiFi테이블에 Insert시킴
