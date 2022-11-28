@@ -1,11 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Open-Wifi%20Project&fontSize=60)
 
-<h1>Mission01 [내 위치 기반 공공 WIFI 정보를 제공하는 Web Service 개발</h1>
-
+<h1>내 위치 기반 공공 와이파이 정보를 제공하는 웹서비스 개발</h1>
 
 ## 프로젝트 수행 목적 ##
-* 자바,JSP(Servlet),데이터베이스 등 다양한 언어와 스킬을 활용한 웹서비스 완성하기]
+* 자바, JSP(Servlet), 데이터베이스 등 다양한 언어와 스킬을 활용한 웹서비스 개발
 
 ## 프로젝트 기간 ##
 2022.11.21 ~ 2022.11.28
