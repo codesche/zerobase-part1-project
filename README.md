@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OpenWifi%20Project&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Open-Wifi%20Project&fontSize=60)
 
 <h1>Mission01 [내 위치 기반 공공 WIFI 정보를 제공하는 Web Service 개발</h1>
 
