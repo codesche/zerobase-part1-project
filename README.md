@@ -4,10 +4,10 @@
 <h1>내 위치 기반 공공 와이파이 정보를 제공하는 웹서비스 개발</h1>
 
 ## 프로젝트 수행 목적 ##
-* 자바, JSP(Servlet), 데이터베이스 등 다양한 언어와 스킬을 활용한 웹서비스 개발
+* **자바, JSP(Servlet), 데이터베이스 등 다양한 언어와 스킬을 활용한 웹서비스 개발**
 
 ## 프로젝트 기간 ##
-2022.11.21 ~ 2022.11.28
+**2022.11.21 ~ 2022.11.28**
 
 <h3>📚 Main Language With Application 📚</h3>
 <p>
@@ -39,12 +39,12 @@
 </p>
 
 ## 개발 환경 ##
-* Language : Java, HTML, CSS, JavaScript
-* DBMS : Sqlite
-* JDK : JDK 1.8
-* Server : Apache Tomcat 8.5.83
-* Library : okhttp3, gson, lombok, sqlite-jdbc
-* IDE: Intellij IDEA 2022.2.3 (Ultimate Edition)
+* **Language : Java, HTML, CSS, JavaScript**
+* **DBMS : Sqlite**
+* **JDK : JDK 1.8**
+* **Server : Apache Tomcat 8.5.83**
+* **Library : okhttp3, gson, lombok, sqlite-jdbc**
+* **IDE: Intellij IDEA 2022.2.3 (Ultimate Edition)**
 
 
 
