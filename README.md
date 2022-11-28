@@ -22,7 +22,7 @@
 
 <h3>📚 Web Server 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/Apache Tomcat 8.5-FBDC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Tomcat 8.5-FBDC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>&nbsp
 </p>
 
 <h3>📚 Web Language 📚</h3>
