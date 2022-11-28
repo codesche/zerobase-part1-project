@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=Sqlite&logoColor=white"/></a>
 <p>
 
-<h3>📚 Web Server 📚</h3>
+<h3>📚 Application Server 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Apache Tomcat 8.5-FBDC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>&nbsp
 </p>
@@ -42,9 +42,10 @@
 ## 개발 환경 ##
 * Language : Java, HTML, CSS, JavaScript
 * DBMS : Sqlite
+* JDK : JDK 1.8
 * Server : Apache Tomcat 8.5.83
+* Library : okhttp3, gson, lombok, sqlite-jdbc
 * IDE: Intellij IDEA 2022.2.3 (Ultimate Edition)
-
 
 
 
